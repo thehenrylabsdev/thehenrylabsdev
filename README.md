@@ -1,6 +1,8 @@
 <div align="center">
 
-# Henry Nguyen
+# Henry Nguyen (The Henry Labs)
+
+</div>
 
 ### Principal Software Engineer · Backend & Distributed Systems
 
@@ -18,5 +20,3 @@ By the way, I am currently open to new opportunities. If you have a suitable rol
 
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/thehenrylabs)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thehenrylabsdev/)
-
-</div>
